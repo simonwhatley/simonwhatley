@@ -2,7 +2,7 @@
 
 I share my name with some iconic innovations—from a [1950s personal computer](https://en.wikipedia.org/wiki/Simon_(computer) "Simon (computer)") to the [first-ever smartphone by IBM](https://en.wikipedia.org/wiki/IBM_Simon "IBM Simon Personal Communicator") and even a beloved [1980s electronic game](https://en.wikipedia.org/wiki/Simon_(game) "Simon (game)"). While I’m no digital device, I am deeply passionate about technology, user experience, and how the two intersect with human behaviour.
 
-To me, technology sparks possibilities, and design uncovers solutions. As technology becomes more ubiquitous and complex—much like life itself—we must design experiences that make sense of this evolution and meet our human needs.
+To me, technology sparks possibilities, and design uncovers solutions. As technology becomes more ubiquitous and complex (much like life itself) we must design experiences that make sense of this evolution and meet our human needs.
 
 With over 20 years of experience, I’ve had the privilege of working across industries, leading teams, and solving challenges for diverse clients. My career has spanned platforms, roles, and perspectives from web developer to conference organiser, trainer, and lead service designer. These experiences have given me a unique appreciation of the digital world and the ability to create human-centred solutions that help people connect, collaborate, and thrive.
 
